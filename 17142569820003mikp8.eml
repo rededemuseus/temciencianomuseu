@@ -1,0 +1,35 @@
+Delivered-To: temciencianomuseuufmg@gmail.com
+Received: by 2002:a05:6124:5b0b:b0:39e:d8f6:feab with SMTP id fj11csp483793vlb;
+        Fri, 26 Apr 2024 11:08:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1714154915; x=1714759715; dara=google.com;
+        h=content-transfer-encoding:to:from:subject:date:message-id
+         :mime-version:from:to:cc:subject:date:message-id:reply-to;
+        bh=Lf0ArqhB8TAcIhpiJA9rXJhYWN7wfBemiQsPlWPDymk=;
+        b=FwNbs29jjDLT+mepFWo98OAwYEkQ4855NSXGpVUd2HNqwmmEwijxcR52WzUgrUiZ6u
+         qvgmfU1dXGLUYY2uURV+8+4a6Ifm/DOFsWb6yc1KKOjwCmpUA8hs3Zha/hKEE+xqb3vd
+         P/cIRLquOJ5G1Nup5PNsEig26pKwHEhedaPmAV7DOBWflnWw2eKtyROK/zFe4ovkZ9ht
+         gkWGb82uCE+57zGUT3ZbeJwQ+yxFSLYar6fG24axzlSedglsBT3GGBlUSIRcdeMe6NGj
+         gaE5ApZiyVsPlOMEXI84evkbre0EWGEyyaPG2Urop9QeqNccmEiT2CiGJ/K5oOfPd+MT
+         T4cQ==
+X-Forwarded-Encrypted: i=1; AJvYcCX9duPevYua6+6+el0Txtf0pKJlW4xMoVx7SecXtXQfvrSUn7pfX9cKO1wy4Ra3zNfdO2fpL1QrTxn3ngwryWsPyFjPISdSgiYeqoN/+SU1
+X-Google-Smtp-Source: AGHT+IE/hrEmDDjlILfco2R4TnWL6h1YizV3rogujSPdrBP67WHnM8wGYw6Ihm0pdF7JwhYj5rd4G+V0yA==
+MIME-Version: 1.0
+X-Received: by 2002:a4a:c3:0:b0:5ac:9fd2:aa36 with SMTP id 186-20020a4a00c3000000b005ac9fd2aa36mr4067322ooh.8.1714154915341;
+ Fri, 26 Apr 2024 11:08:35 -0700 (PDT)
+Message-ID: <autogen-java-3d985174-5eb3-41da-8071-1d759c7647c1@google.com>
+Date: Fri, 26 Apr 2024 18:08:35 +0000
+Subject: =?UTF-8?Q?Produ=C3=A7=C3=A3o_de_Post_=2D_Dia_da_Literatura_Brasileira?=
+From: temciencianomuseuufmg@gmail.com
+To: amabilefernandes13@gmail.com
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U3VhIHBsYW5pbGhhIGZvaSBhdHVhbGl6YWRhIGNvbSB1bWEgbm92YSB0YXJlZmEuDQoNClN0YXR1
+czogTsOjbyBpbmljaWFkbyAtIFBhcmEgZGlhIDIwMjQtMDQtMzANCg0KTyBxdcOqOiBQcm9kdcOn
+w6NvIGRlIFBvc3QgLSBEaWEgZGEgTGl0ZXJhdHVyYSBCcmFzaWxlaXJhDQpDb21vOiBGb2NhciBl
+bSBlc2NyaXRvcmVzIG5lZ3JvcyBlIGluZGlnZW5hcy4gMjAyNC0wNS0wMSAtIERpYSBkYSAgDQpM
+aXRlcmF0dXJhIEJyYXNpbGVpcmEgKFBlc3F1aXNhIGUgUm90ZWlybykNClZhbG9yIDU6DQoNCkF0
+dWFsaXplIG5hIHBsYW5pbGhhOiAgDQpodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9zcHJlYWRzaGVl
+dHMvZC8xSFhyTmZjLV9QWkpVQ0JMYnp0bjBuejNZQlc4cmE4cHpwMWZtZkQ5N3NhVS9lZGl0P3Vz
+cD1zaGFyaW5nDQo=
